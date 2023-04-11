@@ -1,0 +1,20 @@
+{
+  "name": "mongodb-connsctiob",
+  "version": "1.0.0",
+  "description": "This package is used to connect your express server with mongodb compass",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express"
+  ],
+  "author": "Sagar Arya",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
